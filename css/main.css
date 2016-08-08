@@ -1,0 +1,382 @@
+.barra-principal{
+	height: 100px;
+	background-color: #FFFFFF;
+}
+
+.logo{
+	width: 95px;
+	height: 95px;
+}
+
+nav{
+	height: 20px;
+	margin: 40px 0px 0px 8px;
+}
+
+nav ul li{
+	float: left;
+	list-style: none;
+	font-weight: bold;
+	white-space: nowrap;
+	color: #9A9A9D;
+}
+
+nav a{
+	text-decoration: none;
+	color: #9A9A9D;
+	font-size: 18px;
+	padding: 0px 25px 0px 25px;
+}
+
+nav a:hover{
+	color:#5E8039;
+}
+
+
+#presentacion{
+	height: 550px;
+}
+.main{
+	background: url("../img/semilla.jpg") no-repeat;
+	height: 400px;
+	background-size: cover;
+	background-position: center;
+}
+.mensaje{
+	height: 150px;
+	background-color: #F2F2F2;
+}
+.mensaje p{
+	text-align: center;
+	padding:55px 335px;
+}
+
+#razon{
+	height: 400px;
+}
+.icono-razon{
+	width: 157px;
+	height: 157px;
+	padding: 57px 0px 0px 257px;
+}
+
+.info-razon{
+	height: 200px;
+	background-color:#FFFFFF;
+	text-align: center;
+	color:#000000;
+}
+
+.info-razon h1{
+	font-size: 24px;
+	padding: 30px 0px 25px 0px;
+}
+
+.info-razon p{
+	padding: 0px 80px 0px 80px;
+}
+
+#metodologia {
+	height: 400px;
+}
+.img-metodologia{
+	background: url("../img/metodo.jpg") no-repeat;
+	height: 400px;
+	background-size: cover;
+	background-position: center;
+}
+
+.icono-metodologia{
+	width: 57px;
+	height: 57px;
+	margin: auto;
+	padding: 80px 0px 30px 0px;
+}
+
+.info-metodologia{
+	height:400px;
+	background: url("../img/fondo.jpg") no-repeat;
+	background-size: cover;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.info-metodologia h1{
+	font-size: 22px;
+	padding: 0px 0px 25px 0px;
+}
+
+.info-metodologia p{
+	padding: 0px 100px 0px 100px;
+}
+
+
+#servicios{
+	height: 1060px;
+	background-color: #FFFFFF;
+}
+
+.info-servicios{
+	height: 140px;
+	background-color: #FFFFFF;
+}
+
+.info-servicios h1{
+	font-size: 22px;
+	text-align: center;
+	padding: 30px 0px 0px 0px;
+}
+
+.info-servicios p{
+	text-align: center;
+	padding: 20px 0px 0px 0px;
+}
+
+.servicios-col{
+	width: 33.3333333333%;
+	height: 425px;
+	float:left;
+	text-align: center;
+}
+.img-servicio-col{
+	width: 175px;
+	height: 175px;
+	padding: 25px 0px 25px 0px;
+}
+
+.servicios-col h1{
+	color: #5E8039;
+	font-size: 22px;
+	padding: 0px 45px 30px 45px;
+}
+
+.servicios-col p{
+	padding: 0px 45px 0px 45px;
+}
+
+
+
+#proyectos {
+	height: 900px;
+	background-color: #5E8039;
+	color: #FFFFFF;
+}
+
+.lista-proyectos h1 {
+	font-size: 22px;
+	padding: 50px 0px 25px 0px;
+	text-align: center;
+}
+
+.proyecto-comunidad{
+	margin: 0px auto;
+	padding: 0px 0px 0px 75px;
+}
+
+.img-proyecto{
+	width: 45%;
+    height: auto;
+	padding: 0px 30px 35px 45px;
+    float:left;
+}
+
+
+.nombre-proyecto{
+	color: #FFFFFF;
+	text-align: left;
+	font-size: 25px;
+	font-weight: bold;
+	padding: 0px 35px 20px 45px;
+}
+
+.nombre-distrito{
+	color: #FFFFFF;
+	text-align: left;
+	font-size: 18px;
+	font-weight: bold;
+	padding: 0px 35px 20px 45px;
+}
+
+.descripcion-proyecto{
+	color: #FFFFFF;
+	text-align: left;
+	font-size: 16px;
+	padding: 0px 0px 35px 0px;
+}
+
+#equipo{
+	height: 620px;
+	background-color: #FFFFFF;
+	color: #000000;
+}
+
+#equipo h1{
+	font-size: 22px;
+	color: #5E8039;
+	text-align: center;
+	margin:auto;
+	padding: 50px 0px 5px 0px;
+}
+
+.pad-equipo-1{
+	padding: 0px 0px 0px 110px;
+}
+
+.pad-equipo-2{
+	padding: 0px 110px 0px 0px;
+}
+
+.img-equipo-1{
+	background: url(../img/fotos/equipo2.jpg) no-repeat;
+	background-size: cover;
+	background-position: center;
+	width: 260px;
+	height: 260px;
+	border-radius: 50%;
+	margin:auto;
+}
+
+.img-equipo-2{
+	background: url(../img/fotos/equipo3.jpg) no-repeat;
+	background-size: cover;
+	background-position: center;
+	width: 260px;
+	height: 260px;
+	border-radius: 50%;
+	margin:auto;
+}
+
+.miembro-equipo{
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+	padding: 15px 35px 20px 45px;
+}
+
+.cargo-equipo{
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	padding: 0px 35px 0px 45px;
+}
+
+.descripcion-equipo{
+	text-align: center;
+	font-size: 16px;
+	padding: 0px 90px 35px 90px;
+}
+
+.redsocial-equipo{
+	padding: 0px 0px 0px 215px;
+}
+
+.img-redsocial-equipo{
+	width: 35px;
+	height: 35px;
+	margin: auto;
+	padding: 0px 10px 0px 0px;
+}
+
+#blog{
+	background: url("../img/fondo2.jpg") repeat;
+	height: 500px;
+	text-align: left;
+	color:#4D4D4D;
+}
+
+#blog h1{
+	font-size: 24px;
+	color: #000000;
+	text-align: center;
+	margin:auto;
+	padding: 40px 0px 5px 0px;
+}
+
+.img-slider1{
+	width: 50px;
+	height: 50px;
+	padding: 150px 0px 0px 50px;
+}
+
+.img-slider2{
+	width: 50px;
+	height: 50px;
+	padding: 150px 0px 0px 100px;
+}
+
+.articulo{
+	width: 33.3333333333%;
+	height:auto;
+	float: left;
+}
+
+.img-articulo{
+	width: 85%;
+	height:auto;
+	padding: 30px 0px 30px 0px;
+}
+
+.titulo-articulo{
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.fecha-articulo{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.descripcion-articulo{
+	font-size: 16px;
+	padding-right: 35px;
+}
+
+#redessociales{
+	background-color: #4D4D4D;
+	height: 380px;
+	color: #FFFFFF;
+	font-size: 24px;
+}
+
+.table-redes{
+	height: 340px;
+}
+
+.caja-redes{
+	width: 250px;
+	height: 250px;
+	border: 1px solid #FFFFFF;
+	display: inline-block;
+	position: relative;
+	margin: 75px -162px 10px 155px;
+}
+
+.caja-redes p{
+	padding: 30px 0px 0px 30px;
+}
+.img-redesociales{
+	width: 50px;
+	height: auto;
+	position: absolute;
+	top: 25px;
+	right: 15px;
+}
+
+footer{
+	background-color: #F2F2F2;
+	height: 180px;
+}
+
+footer a{
+	text-decoration: none;
+	color: #fac60e;
+}
+
+footer .info-desarrollador{
+	padding: 80px 0px 0px 140px;
+}
+
+
+footer .info-contacto{
+	padding: 80px 140px 0px 0px;	
+}
